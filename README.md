@@ -54,6 +54,6 @@ Los archivos principales del trabajo se encuentran en la carpeta `EA1`:
 ## Contexto académico
 
 **Institución:** Duoc UC  
-**Asignatura:** Matemática / Estadística Descriptiva  
+**Asignatura: Matemática Descriptiva  
 **Región analizada:** Antofagasta  
 **Año de los datos:** 2021
